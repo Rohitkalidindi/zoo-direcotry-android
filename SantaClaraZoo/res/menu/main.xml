@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/info"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:title="@string/menu_zoo_info"/>
+    <item
+        android:id="@+id/uninstall"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:title="@string/menu_uninstall"/>
+
+</menu>

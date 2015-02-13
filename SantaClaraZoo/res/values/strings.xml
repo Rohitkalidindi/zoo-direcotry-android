@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Santa Clara Zoo "</string>
+    <string name="action_settings">Settings</string>
+    <string name="imagedescription">ICON</string>
+    <string name="zoo_name">Santa Clara Zoo</string>
+    <string name="contact">Contact Us:</string>
+    <string name="email">EMAIL : rohitkalidindi@sczoo.org</string>
+    <string name="phone_no"> <u>555-5555</u></string>
+    <string name="phone_label">PHONE: </string>
+    <string name="menu_zoo_info">Information</string>
+    <string name="menu_uninstall">UNINSTALL</string>
+    
+    <string name="mail">Mail us at: \n1 Zoo Road \nSanta Clara, CA-95050</string>
+ 
+	<string name="animal_elephant">Elephants, largest of all land animals, are among the most 
+	    recognizable and beloved creatures on Earth. Their ancestors once roamed most of the planet,
+	     but wild populations are now confined to decreasing swaths of land in Africa and Asia.</string>
+	
+	<string name="animal_giraffe">Giraffes are the worlds tallest mammals, thanks to their towering
+	     legs and long necks. A giraffes legs alone are taller than many humans about 6 feet 
+	     . These long legs allow giraffes to run as fast as 35 miles  an
+	      hour over short distances and cruise comfortably at 10 miles an hour over 
+	      longer distances.
+	</string>
+	
+	<string name="animal_wolf">Wolves are legendary because of their spine-tingling howl, which they
+	     use to communicate. A lone wolf howls to attract the attention of his pack, while communal howls
+	      may send territorial messages from one pack to another. Some howls are confrontational. 
+	      Much like barking domestic dogs, wolves may simply begin howling because a nearby wolf has 
+	      already begun
+	</string>
+	
+	<string name="animal_zebra">Zebras are social animals that spend time in herds. They graze together, 
+	    primarily on grass, and even groom one another.Plains zebras are the most common 
+	    species. They live in small family groups consisting of a male, several females, and 
+	    their young. These units may combine with others to form awe-inspiring herds thousands of head 
+	    strong, but family members will remain close within the herd.
+	</string>
+	
+	<string name="animal_bear">The grizzly bear is a North American subspecies of the brown bear.
+		These awe-inspiring giants tend to be solitary animals—with the exception of females and their cubs—but
+		 at times they do congregate. Dramatic gatherings of grizzly bears can be seen at prime Alaskan fishing 
+		 spots when the salmon run upstream for summer spawning. In this season, dozens of bears may gather to 
+		 feast on the fish, craving fats that will sustain them through the long winter ahead.
+	</string>
+</resources>
